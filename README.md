@@ -32,6 +32,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/dudubr1441/dudubr1441/blob/output/snake.svg" alt="Snake animation" />
 
 ###
