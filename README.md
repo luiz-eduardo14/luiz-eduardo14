@@ -32,4 +32,4 @@
 
 <br clear="both">
 
-<img href="https://github.com/dudubr1441/dudubr1441/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
