@@ -33,4 +33,3 @@
 <br clear="both">
 
 <img href="https://github.com/dudubr1441/dudubr1441/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
-###
