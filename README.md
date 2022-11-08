@@ -27,5 +27,3 @@
 ###
 
 <br clear="both">
-
-![snake gif](https://github.com/luiz-eduardo14/luiz-eduardo14/blob/output/github-contribution-grid-snake.svg)
