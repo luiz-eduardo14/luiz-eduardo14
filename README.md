@@ -7,7 +7,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=640&langs_count=5&theme=dracula&hide_border=false&username=luiz-eduardo14" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/luiz-eduardo14/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="250" alt="languages graph"  />
+   <img src="https://raw.githubusercontent.com/luiz-eduardo14/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="250" alt="languages graph"  />
+
 </div>
 
 <br/>
