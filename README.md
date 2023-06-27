@@ -7,8 +7,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/luiz-eduardo14/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="250" alt="languages graph"  />
-   <img src="https://raw.githubusercontent.com/luiz-eduardo14/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="250" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/luiz-eduardo14/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="200" alt="languages graph"  />
+   <img src="https://raw.githubusercontent.com/luiz-eduardo14/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="200" alt="languages graph"  />
 
 </div>
 
