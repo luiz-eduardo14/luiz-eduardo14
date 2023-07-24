@@ -1,5 +1,8 @@
 <h2 align="center">Hi 👋! My name is Luiz Eduardo and I love programming !</h2>
 
+<h3 align="center"> I am Full-Stack developer with focus in back-end and use correct tecnology for problem
+</h3>
+
 <div align="center">
  <img src="https://raw.githubusercontent.com/samadpls/Programing-Gifs/main/static/gifs/new.gif" width="250" height="250" />
 </div>
@@ -9,7 +12,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/luiz-eduardo14/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="200" alt="languages graph"  />
    <img src="https://raw.githubusercontent.com/luiz-eduardo14/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="200" alt="languages graph"  />
-
 </div>
 
 <br/>
