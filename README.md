@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! My name is Luiz Eduardo and I love programming !</h2>
 
-<h3 align="center"> I am Full-Stack developer with focus in back-end and use correct tecnology for problem
+<h3 align="center"> I am Back-end developer and my focus is use correct tecnology for problem
 </h3>
 
 <div align="center">
